@@ -1,8 +1,5 @@
 # CubeTimer
 
-<img width="1923" height="1836" alt="1" src="https://github.com/user-attachments/assets/e381cf8d-0747-447a-9fa1-c6b21b16fd5f" />
-
-
 ### “CubeTimer”는 큐브를 돌려 원하는 면을 위로 올리기만 하면 설정된 시간이 즉시 시작되는 직관적인 모션 인지 타이머입니다.
 ### 기존 타이머의 번거로운 버튼 조작을 없애고 큐브를 뒤집는 모션만으로 시간에 즉시 몰입할 수 있도록 제작했습니다.
 
